@@ -1,0 +1,1 @@
+// wcat is a command // w is for windows
